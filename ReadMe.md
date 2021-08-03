@@ -7,7 +7,6 @@
  Author  : GENROKU@Karakuri-musha</br>
  License : See the license file for the license.</br>
  Python ver : Python 3.8.10 (conda)</br>
- Pyinstaller : 4.5
  Hardware : Windows10
 
 このツールは、PDF文書から英文を抜き出してテキストファイルに出力するツールです。</br>
@@ -18,6 +17,11 @@ This tool is a tool that extracts English text from a PDF document and outputs i
 This tool extracts English text from PDF file and saves it as html file on Windows10. </br>
 After the tool processing is completed, the html file can be displayed on the browser and translated by using the translation function of the browser.</br>
  </br>
+
+以下のブログでこのツールを紹介しています。参考にしてください。（日本語）</br>
+[【快適！Tools】英語のPDFをブラウザで自動翻訳してみよう（英語資料の翻訳）</br>https://karakuri-musha.com/inside-technology/how-to-translate…sh-documents-pdf/](https://karakuri-musha.com/inside-technology/how-to-translate…sh-documents-pdf/)
+
+</br>
 
 ## **Tool file structure**
 ---
@@ -99,3 +103,9 @@ C:\User\User\Tools> conda activate "PythonEnvName"
 Log           →実行結果ログが格納されます。
 result_files　→実行結果（返還後のHtml）が格納されます。
 ```
+
+
+以下のブログでこのツールを紹介しています。参考にしてください。（日本語）</br>
+[【快適！Tools】英語のPDFをブラウザで自動翻訳してみよう（英語資料の翻訳）</br>https://karakuri-musha.com/inside-technology/how-to-translate…sh-documents-pdf/](https://karakuri-musha.com/inside-technology/how-to-translate…sh-documents-pdf/)
+
+</br>
