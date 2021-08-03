@@ -39,7 +39,7 @@ After the tool processing is completed, the html file can be displayed on the br
 ツール実行時に指定できるオプションは次の通りです。
 
 [Execution example(for cmd)]</br>
-`HtmlConv4PDF.exe -f conversion.pdf -o output.html
+`python HtmlConv4PDF.py -f conversion.pdf -o output.html
 `
 
 |option|Description|
